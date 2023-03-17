@@ -1,4 +1,4 @@
-my gear 2022
+My gear 2022
 
 - Sony Vaio:
     - Merk
@@ -9,10 +9,25 @@ my gear 2022
         - Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
         - DDR3 12 GB
 
-- Software
-    - Bunsenlabs Lithium
-    - dbeaver-ce
-    - flameshot
+- Software list for working:
+    OS:
+        - Bunsenlabs Lithium (personal)
+        - MacOS (coorporate)
+        - Windows (personal)
+    IDE:
+        - VSCode
+        - Codium
+        - Pycharm
+        - dbeaver-ce
+    others:
+        - flameshot
+        - SSR (simpleScreenRecorder)
+        - Vidyard (chrome app)
+    programming-languages:
+        - Go (snap, brew)
+        - Ruby (rbenv)
+        - Python (pyenv)
+
 
 ![my gear 2022](vaio.jpg)
 
