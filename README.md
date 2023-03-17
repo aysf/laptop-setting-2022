@@ -1,7 +1,5 @@
 my gear 2022
 
-![my gear 2022](vaio.jpg)
-
 - Sony Vaio:
     - Merk
         - Product Model: SVE151G17M
@@ -12,5 +10,9 @@ my gear 2022
         - DDR3 12 GB
 
 - Software
-    - OS Bunsenlabs Lithium
+    - Bunsenlabs Lithium
+    - dbeaver-ce
     - flameshot
+
+![my gear 2022](vaio.jpg)
+
