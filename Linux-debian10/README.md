@@ -32,3 +32,10 @@ digikam, /snap/bin/digikam
 dbeaver, /snap/bin/dbeaver-ce
 
 ```
+
+### Usefull command
+
+1. view list software via snap `snap list`
+2. restart the user `su -l <username>`
+3. `which` - check which go (or ruby, or other app) installation path is used `which go`
+4. `whereis` - check where app installation are located, example `whereis go`
