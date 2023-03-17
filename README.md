@@ -10,20 +10,20 @@ My gear 2022
         - DDR3 12 GB
 
 - Software list for working:
-    OS:
+    - OS:
         - Bunsenlabs Lithium (personal)
         - MacOS (coorporate)
         - Windows (personal)
-    IDE:
+    - IDE:
         - VSCode
         - Codium
         - Pycharm
         - dbeaver-ce
-    others:
+    - others:
         - flameshot
         - SSR (simpleScreenRecorder)
         - Vidyard (chrome app)
-    programming-languages:
+    - programming-languages:
         - Go (snap, brew)
         - Ruby (rbenv)
         - Python (pyenv)
