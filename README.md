@@ -11,9 +11,9 @@ My gear 2022
 
 - Software list for working:
     - OS:
-        - Bunsenlabs Lithium (personal)
-        - MacOS (coorporate)
-        - Windows (personal)
+        - Bunsenlabs Lithium (for hoby/learning)
+        - MacOS (default)
+        - Windows (office task)
     - IDE:
         - VSCode
         - Codium
